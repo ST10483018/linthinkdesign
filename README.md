@@ -12,8 +12,8 @@ o	Objective 3: Actively promote website content and services across social media
 o	Objective 1: Put a prominent button that reads "Contact Us" or "Request a Quote" on each of the website's important pages.
 o	Objective 2: Create a useful downloadable resource that people may obtain by entering their email address, such a whitepaper or an industry checklist, to expand your contact list.
 
-
-
+# SiteMap
+<img width="1920" height="1080" alt="Sitemap" src="https://github.com/user-attachments/assets/d70a6d10-8513-4ba6-beb1-b7cbd6a102bd" />
 
 # References
 Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
