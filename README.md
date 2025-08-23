@@ -12,3 +12,21 @@ o	Objective 3: Actively promote website content and services across social media
 o	Objective 1: Put a prominent button that reads "Contact Us" or "Request a Quote" on each of the website's important pages.
 o	Objective 2: Create a useful downloadable resource that people may obtain by entering their email address, such a whitepaper or an industry checklist, to expand your contact list.
 
+
+
+
+# References
+Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
+Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-area-jaw-dropping-master-bedroom-a-video-sa-wowed/
+[Accessed 06 August 2025].
+canva, 2025. Canva. [Online] 
+Available at: https://www.canva.com
+[Accessed 18 August 2025].
+linthinkdesign, n.d. TikTok profile. [Online] 
+Available at: https://www.tiktok.com/@linthinkdesign
+[Accessed 23 August 2025].
+lin_thinkdesign, n.d. Instagram profile. [Online] 
+Available at: https://www.instagram.com/lin_thinkdesign/
+[Accessed 23 August 2025].
+
+
