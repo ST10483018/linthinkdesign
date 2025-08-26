@@ -12,8 +12,32 @@ o	Objective 3: Actively promote website content and services across social media
 o	Objective 1: Put a prominent button that reads "Contact Us" or "Request a Quote" on each of the website's important pages.
 o	Objective 2: Create a useful downloadable resource that people may obtain by entering their email address, such a whitepaper or an industry checklist, to expand your contact list.
 
+# Gantt chart
+
+    section Part 1: Planning & Research
+    Examine Social Account              : Aug 7, 1d
+    Establish Objectives                : Aug 8, 1d
+    Complete Branding & Style Guide     : Aug 9, 1d
+    Draft Low-Fidelity Wireframes       : Aug 10, 2d
+    Milestone 1                         : done, Aug 11, 0d
+
+    section Week 2: Design & Content
+    Design Website Grid Layout          : Aug 12, 2d
+    Create Story Highlight Covers       : Aug 14, 1d
+    Source & Create Graphics            : Aug 15, 3d
+    Milestone 2                         : done, Aug 18, 0d
+
+    section Week 3: Testing & Launch
+    Final making of the files and content   : Aug 20, 2d
+    Make Revisions                          : Aug 22, 2d
+    Schedule Content & Launch               : Aug 24, 2d
+    Part one Submission                     : Aug 25, 2d
+    Part Two Submission                     : Aug 28, 32d
+    Final Submission                        : Sep 29, 35d
+
 # SiteMap
 
+<img width="1920" height="1080" alt="Sitemap" src="https://github.com/user-attachments/assets/dee8ac55-86a9-41ea-a4a1-5fe3a43039a1" />
 
 # References
 Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
