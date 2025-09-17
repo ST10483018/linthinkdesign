@@ -1,4 +1,4 @@
-# Linthinkdesign
+# linthinkdesign
 Student number: ST10483018
 Student name: Tumelo Masinga
 # Project Overview
