@@ -14,26 +14,7 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 
 # Gantt chart
 
-    section Part 1: Planning & Research
-    Examine Social Account              : Aug 7, 1d
-    Establish Objectives                : Aug 8, 1d
-    Complete Branding & Style Guide     : Aug 9, 1d
-    Draft Low-Fidelity Wireframes       : Aug 10, 2d
-    Milestone 1                         : done, Aug 11, 0d
-
-    section Week 2: Design & Content
-    Design Website Grid Layout          : Aug 12, 2d
-    Create Story Highlight Covers       : Aug 14, 1d
-    Source & Create Graphics            : Aug 15, 3d
-    Milestone 2                         : done, Aug 18, 0d
-
-    section Week 3: Testing & Launch
-    Final making of the files and content   : Aug 20, 2d
-    Make Revisions                          : Aug 22, 2d
-    Schedule Content & Launch               : Aug 24, 2d
-    Part one Submission                     : Aug 25, 2d
-    Part Two Submission                     : Aug 28, 32d
-    Final Submission                        : Sep 29, 35d
+<img width="1410" height="589" alt="Online Gantt 20250925" src="https://github.com/user-attachments/assets/ff2a943c-a3a7-48c9-b140-57688e6cb957" />
 
 # SiteMap
 
