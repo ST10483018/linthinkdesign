@@ -20,6 +20,13 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 
 <img width="1920" height="1080" alt="Sitemap" src="https://github.com/user-attachments/assets/dee8ac55-86a9-41ea-a4a1-5fe3a43039a1" />
 
+# Change Log
+
+## 1 added more content/information
+I have add one more image and more information to the about page
+
+## 2 adjusted iframe indentation 
+
 # References
 Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
 Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-area-jaw-dropping-master-bedroom-a-video-sa-wowed/
