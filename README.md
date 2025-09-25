@@ -14,7 +14,7 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 
 # Gantt chart
 
-<img width="1410" height="589" alt="Online Gantt 20250925" src="https://github.com/user-attachments/assets/ff2a943c-a3a7-48c9-b140-57688e6cb957" />
+<img width="1410" height="589" alt="Online Gantt 20250925-2" src="https://github.com/user-attachments/assets/dd9f2dc8-b9ec-4ec6-b5b0-1b33d4d4e381" />
 
 # SiteMap
 
