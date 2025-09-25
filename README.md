@@ -40,5 +40,9 @@ Available at: https://www.instagram.com/lin_thinkdesign/
 Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
 Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-area-jaw-dropping-master-bedroom-a-video-sa-wowed/
 [Accessed 06 August 2025].
+W3Schools, n.d. CSS Tutorial. [Online] 
+Available at: https://www.w3schools.com/css/default.asp
+[Accessed 25 September 2025].
+
 
 
