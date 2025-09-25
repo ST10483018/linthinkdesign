@@ -28,9 +28,6 @@ I have add one more image and more information to the about page
 ## 2 adjusted iframe indentation 
 
 # References
-Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
-Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-area-jaw-dropping-master-bedroom-a-video-sa-wowed/
-[Accessed 06 August 2025].
 canva, 2025. Canva. [Online] 
 Available at: https://www.canva.com
 [Accessed 18 August 2025].
@@ -40,5 +37,8 @@ Available at: https://www.tiktok.com/@linthinkdesign
 lin_thinkdesign, n.d. Instagram profile. [Online] 
 Available at: https://www.instagram.com/lin_thinkdesign/
 [Accessed 23 August 2025].
+Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
+Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-area-jaw-dropping-master-bedroom-a-video-sa-wowed/
+[Accessed 06 August 2025].
 
 
