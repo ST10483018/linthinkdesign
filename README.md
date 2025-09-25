@@ -26,6 +26,10 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 I have add one more image and more information to the about page
 
 ## 2 adjusted iframe indentation 
+corrected the indentation for the content in contact us
+
+## 3 add new refreneces
+I used a seprate website to help guid me through with the colors and how to style the content and the website formate website.
 
 # References
 canva, 2025. Canva. [Online] 
