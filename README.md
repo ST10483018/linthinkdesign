@@ -30,11 +30,12 @@ I have adjusted the iframe in contact us page
 
 ## 3 added a hero section 
 I add a video to the hero section of my home page and postion the text next to it
+corrected the indentation for the content in contact us
+
+## 4 add new refreneces
+I used a seprate website to help guid me through with the colors and how to style the content and the website formate website.
 
 # References
-Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
-Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-area-jaw-dropping-master-bedroom-a-video-sa-wowed/
-[Accessed 06 August 2025].
 canva, 2025. Canva. [Online] 
 Available at: https://www.canva.com
 [Accessed 18 August 2025].
@@ -46,5 +47,12 @@ Available at: https://www.tiktok.com/@linthinkdesign
 lin_thinkdesign, n.d. Instagram profile. [Online] 
 Available at: https://www.instagram.com/lin_thinkdesign/
 [Accessed 23 August 2025].
+Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
+Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-area-jaw-dropping-master-bedroom-a-video-sa-wowed/
+[Accessed 06 August 2025].
+W3Schools, n.d. CSS Tutorial. [Online] 
+Available at: https://www.w3schools.com/css/default.asp
+[Accessed 25 September 2025].
+
 
 
