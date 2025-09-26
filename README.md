@@ -26,6 +26,10 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 I have add one more image and more information to the about page
 
 ## 2 adjusted iframe indentation 
+I have adjusted the iframe in contact us page
+
+## 3 added a hero section 
+I add a video to the hero section of my home page and postion the text next to it
 
 # References
 Mukandila, J., 2024. Man Transforms Entertainment Area into Jaw-Dropping Master Bedroom in a Video, SA Wowed Read. [Online] 
@@ -34,6 +38,8 @@ Available at: https://briefly.co.za/people/185986-man-transforms-entertainment-a
 canva, 2025. Canva. [Online] 
 Available at: https://www.canva.com
 [Accessed 18 August 2025].
+Higher, “Need help adding content under a background video (Hero section),” Stack Overflow, 2 February 2022, available at: https://stackoverflow.com/questions/70949891/need-help-adding-content-under-a-background-video-hero-section
+ (accessed 26 September 2025).
 linthinkdesign, n.d. TikTok profile. [Online] 
 Available at: https://www.tiktok.com/@linthinkdesign
 [Accessed 23 August 2025].

@@ -1,4 +1,96 @@
 body{
-    background-color: #e7dfd8;
+    background-color: #cecabe;
     margin: 0px;
+}
+
+#wrapper{
+    width: 960px;
+    background-color: #e7dfd8;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header{
+    background-color: #b4b4b4;
+    height: 150px;
+    position: relative;
+    
+}
+
+header img {
+    width: 125px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 60%;
+}
+
+#guideLinks {
+    position: absolute;
+    width: 600px;
+    top: 55px;
+    right: 15px;
+    font-weight: bold;
+}
+
+#guideLinks li{
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 12px;
+}
+
+a:link {
+    color: #181717;
+    text-decoration: none;
+    
+}
+
+a:visited {
+    color: #181717;
+}
+
+a:hover{
+    color: rgba(59, 40, 40, 0.89);
+}
+
+.currentPage{
+    color: white;
+}
+
+.clearFix{
+    clear: both;
+}
+
+#bgVideo {
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.hero {
+    position: relative;
+    height: 60vh;
+    width: auto;
+    overflow: hidden;
+}
+
+.hero-content {
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    top: 40%;
+    left: 56%;
+    transform: translateY(-50%, -50%);
+    font-size: medium;
+}
+
+#infoHome{
+    width: 100%;
+    text-align: left;
+    font-size: 21px;
 }
