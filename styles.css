@@ -94,4 +94,12 @@ a:hover{
     width: 100%;
     text-align: left;
     font-size: 21px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1{
+    font-family: comic sans-serif;
 }
