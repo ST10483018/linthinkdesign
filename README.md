@@ -21,6 +21,9 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 <img width="1920" height="1080" alt="Sitemap" src="https://github.com/user-attachments/assets/dee8ac55-86a9-41ea-a4a1-5fe3a43039a1" />
 
 # Responsive design
+<img width="493" height="750" alt="responsive design" src="https://github.com/user-attachments/assets/6c3da1a6-29a8-445d-af6a-e706f320100c" />
+<img width="1465" height="783" alt="responsive design desktop" src="https://github.com/user-attachments/assets/b06040bb-b386-49be-9a84-01c4c4c8f980" />
+
 
 # Change Log
 
