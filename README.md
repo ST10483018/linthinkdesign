@@ -30,17 +30,17 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 ## 1 Added Style sheet
 i added a style sheet and also linked it to my pages
 
-## 2 added more content/information
+## 2 Added more content/information
 I have add one more image and more information to the about page
 
-## 3 adjusted iframe indentation 
+## 3 Adjusted iframe indentation 
 I have corrected the indentation for the content in contact us
 
-## 4 added a hero section 
+## 4 Added a hero section 
 I add a video to the hero section of my home page and postion the text next to it
 
 
-## 5 add new refreneces
+## 5 Added new refreneces
 I used a seprate website to help guid me through with the colors and how to style the content and the website formate website.
 
 # References
