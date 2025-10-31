@@ -52,9 +52,8 @@ I removed the iframe and added a leaflet map for interactive map.
 ## 8 Gallery Lightbox 
 Changed the gallery to make the light box work.
 
-## Added search
+## 9 Added search
 Added search to the service page and more content to search through.
-
 
 # References
 canva, 2025. Canva. [Online] 
