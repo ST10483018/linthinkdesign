@@ -28,20 +28,33 @@ o	Objective 2: Create a useful downloadable resource that people may obtain by e
 # Change Log
 
 ## 1 Added Style sheet
-i added a style sheet and also linked it to my pages
+i added a style sheet and also linked it to my pages.
 
 ## 2 Added more content/information
-I have add one more image and more information to the about page
+I have add one more image and more information to the about page.
 
 ## 3 Adjusted iframe indentation 
-I have corrected the indentation for the content in contact us
+I have corrected the indentation for the content in contact us.
 
 ## 4 Added a hero section 
-I add a video to the hero section of my home page and postion the text next to it
+I add a video to the hero section of my home page and postion the text next to it.
 
 
 ## 5 Added new refreneces
 I used a seprate website to help guid me through with the colors and how to style the content and the website formate website.
+
+## 6 Installed jquery, link Javascript
+I installed Jquery and created the javascript file and linke it to my html files. 
+
+## 7 Changed maps
+I removed the iframe and added a leaflet map for interactive map.
+
+## 8 Gallery Lightbox 
+Changed the gallery to make the light box work.
+
+## Added search
+Added search to the service page and more content to search through.
+
 
 # References
 canva, 2025. Canva. [Online] 
@@ -49,6 +62,8 @@ Available at: https://www.canva.com
 [Accessed 18 August 2025].
 Higher, “Need help adding content under a background video (Hero section),” Stack Overflow, 2 February 2022, available at: https://stackoverflow.com/questions/70949891/need-help-adding-content-under-a-background-video-hero-section
  (accessed 26 September 2025).
+OpenJS Foundation - openjsf.org (no date) Download JQuery | JQuery. https://jquery.com/download/ 
+(Accessed: October 31, 2025).
 linthinkdesign, n.d. TikTok profile. [Online] 
 Available at: https://www.tiktok.com/@linthinkdesign
 [Accessed 23 August 2025].
