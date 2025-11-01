@@ -60,6 +60,9 @@ Created the Two forms and styled them also made them responsive by using javascr
 ## 11 Centered the instagram page
 I put profile in the middle.
 
+## 12 added sitemap, robots and speed imporvement
+Made the website pages faster by adding defer and also did SEO.
+
 # References
 canva, 2025. Canva. [Online] 
 Available at: https://www.canva.com
