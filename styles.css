@@ -223,9 +223,119 @@ nav.nav-active { background: rgba(255,255,255,0.95);
   font-size: 1.1em;
   transition: opacity 0.3s ease;
 }
+
 .search-item[style*="display: none"] {
   opacity: 0;
 }
+
+#contact-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  
+}
+
+
+.contact-section, 
+.quote-section {
+  padding: 40px 20px;
+  background: #e7dfd8;
+  border-radius: 10px;
+  margin: 40px auto;
+  max-width: 800px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border: 1px solid #cecabe;
+  text-align: left;
+}
+
+.contact-section h2, 
+.quote-section h2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #181717;
+  font-size: 1.8em;
+  margin-bottom: 25px;
+}
+
+/* Apply same styling to both forms */
+#contactForm,
+#quoteForm {
+  float: none;
+  width: 90%;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  box-sizing: border-box;
+}
+
+#contactForm .form-group,
+#quoteForm .form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+#contactForm label,
+#quoteForm label {
+  font-weight: bold;
+  color: #181717;
+  margin-bottom: 5px;
+  font-size: 1.1em;
+}
+
+#contactForm input,
+#contactForm textarea,
+#contactForm select,
+#quoteForm input,
+#quoteForm textarea,
+#quoteForm select {
+  width: 100%;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #b4b4b4;
+  background-color: #fff;
+  font-size: 1rem;
+  color: #333;
+  box-sizing: border-box;
+}
+
+#contactForm textarea,
+#quoteForm textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+#contactForm .btn-submit,
+#quoteForm .btn-submit {
+  background-color: #b4b4b4;
+  color: #181717;
+  border: none;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 1.1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin-top: 10px;
+}
+
+#contactForm .btn-submit:hover,
+#quoteForm .btn-submit:hover {
+  background-color: rgba(59, 40, 40, 0.89);
+  color: white;
+}
+
+#contactMessage,
+#quoteMessage {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 1em;
+  font-weight: bold;
+  color: #333;
+}
+
 
 
 @media only screen and (max-width: 960px){
@@ -261,5 +371,12 @@ nav.nav-active { background: rgba(255,255,255,0.95);
     }
     iframe{
         width: 320px;
+    }
+    .contact-section, .quote-section {
+    width: 90%;
+    margin: 20px auto;
+    }
+    form {
+    width: 100%;
     }
 }

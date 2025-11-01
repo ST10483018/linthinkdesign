@@ -39,12 +39,11 @@ I have corrected the indentation for the content in contact us.
 ## 4 Added a hero section 
 I add a video to the hero section of my home page and postion the text next to it.
 
-
 ## 5 Added new refreneces
 I used a seprate website to help guid me through with the colors and how to style the content and the website formate website.
 
 ## 6 Installed jquery, link Javascript
-I installed Jquery and created the javascript file and linke it to my html files. 
+I installed Jquery and created the javascript file and linked it to my html files. 
 
 ## 7 Changed maps
 I removed the iframe and added a leaflet map for interactive map.
@@ -54,6 +53,12 @@ Changed the gallery to make the light box work.
 
 ## 9 Added search
 Added search to the service page and more content to search through.
+
+## 10 Created Enquary form and Contact form
+Created the Two forms and styled them also made them responsive by using javascript. 
+
+## 11 Centered the instagram page
+I put profile in the middle.
 
 # References
 canva, 2025. Canva. [Online] 

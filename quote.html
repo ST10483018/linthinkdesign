@@ -1,37 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Quote</title>
-    <link rel="stylesheet" href="styles.css"><!-- linked the stylesheet to this page -->
+    <link rel="stylesheet" href="styles.css" />
+    <!-- linked the stylesheet to this page -->
     <script src="node_modules/jquery/dist/jquery.js"></script>
     <script src="javascript/enhancements.js"></script>
-</head>
-<body>
+  </head>
+  <body>
     <div id="wrapper">
+      <header>
+        <img src="_images/Linthinkdesign.png" alt="Linthinkdesign" />
+        <nav id="guideLinks">
+          <!-- this is the navigation section -->
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="About.html">About</a></li>
+            <li><a href="service.html">Service</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li class="currentPage">Get A Quote</li>
+            <li><a href="contact.html">Contact Us</a></li>
+          </ul>
+        </nav>
+      </header>
 
-        <header>
-            <img src="_images/Linthinkdesign.png" alt="Linthinkdesign">
-            <nav id="guideLinks"><!-- this is the navigation section -->
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="About.html">About</a></li>
-                    <li><a href="service.html">Service</a></li>
-                    <li><a href="gallery.html">Gallery</a></li>
-                    <li class="currentPage">Get A Quote</li>
-                    <li><a href="contact.html">Contact Us</a></li>
-                </ul>
-            </nav>
-        </header>
+      <main>
+        <section id="quote" class="quote-section">
+          <div class="container">
+            <h2>Request a Quote</h2>
+            <form id="quoteForm">
+              <div class="form-group">
+                <label for="qname">Full Name</label>
+                <input type="text" id="qname" name="qname" placeholder="Your full name" required />
+              </div>
 
-        <main id="quoteForm">
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe5yM_oDQbf7JWTv7METSewUN8dy_AkrJpRWKwS5AnzJbSPog/viewform?embedded=true" width="640" height="856" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-        </main>
+              <div class="form-group">
+                <label for="qemail">Email Address</label>
+                <input type="email" id="qemail" name="qemail" placeholder="Your email address" required />
+              </div>
 
-        <footer>
-            Copyright © linthinkdesigns
-        </footer>
+              <div class="form-group">
+                <label for="qservice">Service Type</label>
+                <select id="qservice" name="qservice" required>
+                  <option value="">Select a service</option>
+                  <option value="consulting">Consulting</option>
+                  <option value="design">Design</option>
+                  <option value="development">Development</option>
+                </select>
+              </div>
+
+              <div class="form-group">
+                <label for="qdetails">Project Details</label>
+                <textarea id="qdetails" name="qdetails" rows="5" placeholder="Describe your project..." required></textarea>
+              </div>
+              
+              <button type="submit" class="btn-submit">Request Quote</button>
+            </form>
+            <div id="quoteMessage"></div>
+          </div>
+        </section>
+      </main>
+
+      <footer>Copyright © linthinkdesigns</footer>
     </div>
-</body>
+  </body>
 </html>

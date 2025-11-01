@@ -144,6 +144,39 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // Contact Form
+  $('#contactForm').on('submit', function(e) {
+    e.preventDefault();
+    let name = $('#name').val().trim();
+    let email = $('#email').val().trim();
+    let message = $('#message').val().trim();
+
+    if (name && email && message) {
+      $('#formMessage').text('Thank you, your message has been sent!').css('color', 'green');
+      this.reset();
+    } else {
+      $('#formMessage').text('Please fill in all fields.').css('color', 'red');
+    }
+  });
+
+  // Quote Form
+  $('#quoteForm').on('submit', function(e) {
+    e.preventDefault();
+    let name = $('#qname').val().trim();
+    let email = $('#qemail').val().trim();
+    let service = $('#service').val();
+    let message = $('#qmessage').val().trim();
+
+    if (name && email && service && message) {
+      $('#quoteMessage').text('Your quote request has been submitted!').css('color', 'green');
+      this.reset();
+    } else {
+      $('#quoteMessage').text('Please complete all fields.').css('color', 'red');
+    }
+  });
+
+
+
   // Lazy loading images
   document.querySelectorAll('img[data-src]').forEach(img => {
     const obs = new IntersectionObserver(entries => {
