@@ -258,7 +258,7 @@ nav.nav-active { background: rgba(255,255,255,0.95);
   margin-bottom: 25px;
 }
 
-/* Apply same styling to both forms */
+
 #contactForm,
 #quoteForm {
   float: none;
