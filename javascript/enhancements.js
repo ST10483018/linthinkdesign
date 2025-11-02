@@ -196,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function () {
     link.addEventListener('mouseleave', () => link.classList.remove('glow'));
   });
 
-  // Leaflet map init (if present)
+  // Leaflet map init
   if (typeof L !== 'undefined' && document.getElementById('map')) {
     try {
       const mapEl = document.getElementById('map');
